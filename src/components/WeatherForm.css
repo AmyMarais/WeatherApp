@@ -1,0 +1,10 @@
+/* styling for WeatherForm component */
+
+.container {
+    margin-top: 90px;
+}
+
+footer {
+    margin-top: 40px;
+    color: white;
+}
